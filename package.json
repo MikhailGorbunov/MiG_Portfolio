@@ -2,7 +2,7 @@
   "name": "mig_portfolio",
   "version": "0.1.0",
   "private": true,
-  "https://MikhailGorbunov.github.io/mig_portfolio",
+  "homepage": "https://MikhailGorbunov.github.io/mig_portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
